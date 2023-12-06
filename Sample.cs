@@ -2,7 +2,7 @@ public class SampleClass
 {
     public int AddNumbers(int a, int b)
     {
-        return a + b;
+        return a + c;
     }
 
     public string ConcatenateStrings(string str1, string str2)
